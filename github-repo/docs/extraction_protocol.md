@@ -305,7 +305,7 @@ def standardize_entity(entity, mapping):
 
 **Total pipeline**: ~8 hours for 141 reports (68 pages avg)
 
-### API Costs (as of Nov 2024)
+### API Costs (as of Nov 2025)
 
 - **GPT-4o**: $0.0025/1K input tokens, $0.010/1K output tokens
 - **GPT-4o-mini**: $0.000150/1K input tokens, $0.000600/1K output tokens
