@@ -171,9 +171,9 @@ If you use this code or dataset in your research, please cite:
 ```bibtex
 @article{xu2024esg,
   title={Beyond Ratings: Deconstructing ESG Disclosure Through AI-Driven Action-Level Analysis},
-  author={Xu, Tong},
+  author={Tong Xu, Hideo Suzuki},
   journal={Cogent Business \& Management},
-  year={2024},
+  year={2025},
   note={Submitted for publication. Code and prompts: https://github.com/[your-username]/esg-action-extraction; Dataset: https://doi.org/10.5281/zenodo.17582500},
   howpublished={Manuscript under review}
 }
@@ -242,4 +242,4 @@ From our analysis of 141 Japanese firms:
 
 **Disclaimer**: This research is for academic purposes only. ESG action extraction accuracy (89.5%) indicates that outputs should be verified before use in investment decisions. The authors are not responsible for financial losses resulting from reliance on this methodology.
 
-**Last Updated**: December 2024
+**Last Updated**: Nov 2025
