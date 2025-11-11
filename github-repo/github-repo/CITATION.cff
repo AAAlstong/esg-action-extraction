@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ESG Action Extraction: LLM-Driven Knowledge Graph Construction"
+authors:
+  - family-names: "Xu"
+    given-names: "Tong"
+    email: "xutongxutong@keio.jp"
+    affiliation: "Keio University"
+repository-code: "https://github.com/[your-username]/esg-action-extraction"
+url: "https://github.com/[your-username]/esg-action-extraction"
+abstract: "Multi-stage LLM prompts and extraction protocols for deconstructing corporate ESG disclosure into structured action-level knowledge graphs. Accompanies the research paper submitted to Cogent Business & Management (under review)."
+keywords:
+  - ESG
+  - sustainability reporting
+  - large language models
+  - knowledge graphs
+  - corporate disclosure
+  - LLM prompts
+  - information extraction
+  - Japan
+license: MIT
+version: 1.0.0
+date-released: "2024-12-12"
+references:
+  - type: article
+    authors:
+      - family-names: "Xu"
+        given-names: "Tong"
+    title: "Beyond Ratings: Deconstructing ESG Disclosure Through AI-Driven Action-Level Analysis"
+    journal: "Cogent Business & Management"
+    year: 2024
+    publisher:
+      name: "Taylor & Francis"
+    status: "submitted"
+    notes: "Manuscript under review. Dataset available at https://doi.org/10.5281/zenodo.17582500"
