@@ -231,9 +231,9 @@ From our analysis of 141 Japanese firms:
 
 - **Author**: Tong Xu
 - **Institution**: Keio University
-- **Email**: xutongxutong@keio.jp
+- **Email**: xutongshenqing@163.com
 - **Paper Status**: Under review at *Cogent Business & Management*
-- **Dataset Requests**: Please email xutongxutong@keio.jp with:
+- **Dataset Requests**: Please email xutongshenqing@163.com with:
   - Your research purpose
   - Institutional affiliation
   - Confirmation of non-commercial use
