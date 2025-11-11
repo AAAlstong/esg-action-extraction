@@ -233,35 +233,6 @@ Empirical calibration (100-sample validation):
 
 ---
 
-## Stage 4: Quality Assessment (LLM-as-a-Judge)
-
-### Rubric Design
-
-Based on Zheng et al. (2023) LLM-as-a-Judge framework:
-
-| Rubric | Score | Criteria |
-|--------|-------|----------|
-| **Evidence Consistency** | 2 | Quote perfectly supports triple |
-|  | 1 | Quote partially supports |
-|  | 0 | Quote doesn't match |
-| **Action Specificity** | 2 | Verb is concrete (install/reduce) |
-|  | 1 | Verb is somewhat specific |
-|  | 0 | Verb is generic (推進) |
-| **Topic Alignment** | 2 | GRI/SASB/TCFD compliant |
-|  | 1 | Approximately correct |
-|  | 0 | Misclassified |
-| **Entity Reasonableness** | 2 | Actor/target clearly identified |
-|  | 1 | Actor/target somewhat vague |
-|  | 0 | Actor/target unclear |
-| **Non-Redundancy** | 2 | Novel information |
-|  | 1 | Minor overlap with existing |
-|  | 0 | Duplicate |
-
-### Pass Threshold
-
-**Total score ≥ 7/10** (70% benchmark)
-
-Rationale: Conservative threshold to minimize false positives while maintaining reasonable recall.
 
 ---
 
